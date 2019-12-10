@@ -1,4 +1,4 @@
 <?php
-    echo("Hello World")
-    echo("My first php Project")
+    echo("Hello World");
+    echo("My first php Project");
 ?>
