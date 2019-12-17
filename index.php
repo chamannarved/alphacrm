@@ -8,17 +8,14 @@
 </head>
 <body>
 
-    <?php
-
-        echo("
-            <h1>Contect Mangment System</h1>
-        ");
-
-        echo('
-            <a href="createCompany.php">Create New Company</a>
-        ')
-
-    ?>
+<?php
+    echo("
+        <h1>Contect Mangment System</h1>
+    ");
+    echo('
+        <a href="createCompany.php">Create New Company</a>
+    ')
+?>
 
 </body>
 </html>
